@@ -1,0 +1,24 @@
+h1{
+  color: brown;
+}
+body{
+
+  background-image: url("http://distritex.ec/wp-content/uploads/2015/08/fondo-web.jpg");
+}
+img{
+  width: 400px;
+}
+div{
+  margin:auto;
+
+}
+#thirdDiv{
+  height: 600px;
+  width: 500px;
+  background-color: aquamarine;
+  padding: 50px;
+  border: 10px solid blueviolet;
+}
+#spanId{
+  font-size: 18px;
+}
